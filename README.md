@@ -1,11 +1,19 @@
 # Nice seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am CaptnJohn, outside of Github known as Johan Ottosson, a game developer working in the industry for several years. Originating from a Technical Artist university background where I started my journey in gaming. What I love the most is the visual aspects and tools of development such as VFX, UI and tools! Would love to colloborate on some small project or just share knowledge. Feel free to reach out to me at:
+I ❤️ Game Development
+
+## Little info about me
+
+- 🎓  I studied Technical Artist at university.
+- 🏢  I currently work with [HiberWorld](https://hiberworld.com/)
+- 👯 I always strive to learn and share knowledge with other people, in my opinion you will never stop learning.
+- 💬 Ask me about UI, VFX, C++, C#, Unity and Unreal.
+- 📁 My engine experiences are, Unity, Unreal, 3 in house engines of companies.
+- 💻 On my free time I spend my time playing a bunch of different games but also working on side projects.
+- 📘 My favorite languages are C++ & C#.
 
 [![Gmail Badge](https://img.shields.io/badge/-jottossonta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jottossonta@gmail.com)](mailto:jottossonta@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-johancaptnjohn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johancaptnjohn/)](https://www.linkedin.com/in/johancaptnjohn/)
-
-I ❤️ Game Development
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
 ![C#](https://img.shields.io/badge/-csharp-00599C?style=flat-square&logo=c-sharp)
@@ -32,8 +40,12 @@ I ❤️ Game Development
 ![Visual Studio](https://img.shields.io/badge/-visualstudio-darkblue?style=flat-square&logo=visualstudio)
 ![clion](https://img.shields.io/badge/-clion-black?style=flat-square&logo=clion)
 ![rider](https://img.shields.io/badge/-rider-black?style=flat-square&logo=rider)
-
-
+<br>
+<br>
+<p align=left>  
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=captnjohn&show_icons=true&theme=dracula&hide_border=true&layout=compact">
+</p>
+<br>
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=captnjohn&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
