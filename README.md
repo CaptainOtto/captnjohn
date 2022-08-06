@@ -9,7 +9,6 @@ I ❤️ Game Development
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
 ![C#](https://img.shields.io/badge/-csharp-00599C?style=flat-square&logo=c-sharp)
-
 ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
 ![Unreal Engine](https://img.shields.io/badge/-UnrealEngine-black?style=flat-square&logo=unrealengine)
 ![Typescript](https://img.shields.io/badge/-Typescript-00599C?style=flat-square&logo=c)
