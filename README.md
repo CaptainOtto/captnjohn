@@ -42,7 +42,7 @@ I ❤️ Game Development
 ![rider](https://img.shields.io/badge/-rider-black?style=flat-square&logo=rider)
 <br>
 <br>
-# Personal repository stats, does not include work in organisations/off github.
+# Personal repository statistics
 
 <p align=left>  
   <img align=center src="https://github-readme-stats.vercel.app/api?username=captnjohn&show_icons=true&theme=dracula&hide_border=true&layout=compact">
