@@ -5,7 +5,6 @@ I ❤️ Game Development
 ## Little info about me
 
 - 🎓  I studied Technical Artist at university.
-- 🏢  I currently work with [HiberWorld](https://hiberworld.com/)
 - 👯 I always strive to learn and share knowledge with other people, in my opinion you will never stop learning.
 - 💬 Ask me about UI, VFX, C++, C#, Unity and Unreal or anything down below listed in my badges.
 - 📁 My engine experiences are, Unity, Unreal, 3 in house engines of companies.
